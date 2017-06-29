@@ -1,8 +1,9 @@
-MVC_forum_PDO
+CREADOR Y CORRECTOR DE EXAMENES
 
-Creado por David Gomez Gómez
+Creado by David Gomez Gómez
 
-GitHub ### davidenco12 Linkedin ### https://www.linkedin.com/in/david-g%C3%B3mez-a7933786/
+GitHub ### davidenco12 
+Linkedin ### https://www.linkedin.com/in/david-g%C3%B3mez-a7933786/
 ______________________________________________________________________________________________
 
-Aplicación simple que crea examenes de tipo test con opción de verdadero o falso,eligiendo el numero de preguntas que tendra el examen,una vez creado,se puede realizar el examen como un alumno,al terminar se mostraran las respuestas fallidas y erroneas y el numero de errores aciertos y preguntas no contestadas del alumno.Esta aplicación no tiene base de datos.he trabajado con cookies serializadas
+Aplicación simple que crea examenes  de tipo test con opción de verdadero o falso, eligiendo el número de preguntas que tendrá el examen, una vez creado, la prueba se puede hacer como un estudiante, el acabado mostrará las respuestas fallidas y erróneas y el número De errores y preguntas sin respuesta de la aplicación student.This no tiene database.I trabajó con las cookies serializadas
