@@ -1,0 +1,2 @@
+Puntuacion directa = A-E
+PS10=(PD/nPREGUNTAS) *10
